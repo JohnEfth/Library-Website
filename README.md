@@ -8,4 +8,4 @@ This website gives the opportunity to the students to register and create profil
 
 Students through their profile can track which books they have borrowed, when to return them and ask for extensions.
 
-It also gives you the option to search and find all the books that are available in each library of our campus.
+It also gives you the option to search and find all the books that are available in the libraries of our campus.
