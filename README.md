@@ -1,4 +1,5 @@
-Library-Website
+# ACM-SIGMOD-Contest-2016
+Optimize the time of update and shortest path search in big graphs.
 
 This website is an update of my university's library website based on Nielsen's Heuristics.
 
