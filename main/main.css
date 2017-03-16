@@ -1,0 +1,123 @@
+
+
+
+#search-box-home{
+    background: lightgrey;
+    position: absolute;
+}
+
+.off-canvas-wrapper{
+	height:100%;
+    position: absolute;
+}
+.off-canvas-wrapper-inner{
+	height: 100%;
+    position: absolute;
+}
+
+#offCanvasLeft{
+
+	height: 100%;
+    position:absolute;
+      width: 100%;
+
+}
+#offCanvasRight{
+
+    height: 100%;
+    position:absolute;
+
+}
+
+
+#welcome{
+    position: absolute;
+    right: 20%;
+
+}
+#welcome2{
+    position: absolute;
+    
+
+}
+h2{
+
+    text-align: center;
+    font-family: serif;
+
+}
+
+#navbar-left{
+  
+    position: absolute;
+
+    height: 100%;
+   
+    background: #2C3E50;
+ 
+}
+#navbar-left2{
+  
+    position: absolute;
+
+    height: 100%;
+   
+    background: #2C3E50;
+    width: 20%;
+}
+
+#navbar{
+  
+    position: absolute;
+
+    height: 100%;
+   
+    background: #2C3E50;
+ 
+}
+
+#wat{margin-top: -40px;}
+#head_image{
+    opacity: 0.6;
+
+}
+
+.off-canvas-content{
+    height: 100%;
+    background: #F0F0F0  ;
+    position: relative;
+    width: 100%;
+
+  
+}
+.sidebar-nav{
+    padding: 0;
+    list-style: none;
+    margin-top: 50px;
+}
+
+.sidebar-nav li{
+    text-indent: 20px;
+    line-height: 40px;
+    width: 250px;
+
+}
+
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: white;
+
+}
+
+.sidebar-nav li a:hover{
+    background: lightblue;
+    color:black;
+ 
+}
+
+.title{
+    color: Black;
+ 
+}
+
